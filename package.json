@@ -1,12 +1,12 @@
 {
-    "name": "@codebet/react-native-background-color",
-    "version": "0.0.6",
+    "name": "@islacel/react-native-background-color",
+    "version": "0.0.9",
     "author": "Rado Milushev",
     "private": false,
     "license": "Unlicense",
     "repository": {
         "type": "git",
-        "url": "https://github.com/goa-codebet/react-native-background-color"
+        "url": "git+https://github.com/vherrera1991//react-native-background-color.git"
     },
     "homepage": "https://github.com/goa-codebet/react-native-background-color ",
     "keywords": [
