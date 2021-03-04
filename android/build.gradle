@@ -28,12 +28,12 @@ def safeExtGet(prop, fallback) {
 apply plugin: 'com.android.library'
 
 android {
-    compileSdkVersion 28
-    buildToolsVersion "28.0.2"
+    compileSdkVersion 30
+    buildToolsVersion "29.0.2"
 
     defaultConfig {
         minSdkVersion 16
-        targetSdkVersion 28
+        targetSdkVersion 30
         versionCode 1
         targetSdkVersion safeExtGet('targetSdkVersion', 22)
         // get version name from package.json version
